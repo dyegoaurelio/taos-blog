@@ -1,23 +1,18 @@
 export default {
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: '7720f853e6d64f5499492f64dd1c14cb',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Blog Taos Energia',
+  domain: 'blog.taosenergia.com.br',
+  author: 'Taos Energia',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
-
-  // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  description: 'Blog relacionado a Energia Solar',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults

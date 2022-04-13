@@ -42,7 +42,7 @@ export async function getStaticPaths() {
     fallback: true
   }
 
-  console.log(ret.paths)
+  // console.log(ret.paths)
   return ret
 }
 
