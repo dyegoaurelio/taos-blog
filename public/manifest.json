@@ -1,5 +1,6 @@
 {
-  "name": "App",
+  "name": "Blog Taos Energia",
+  "short_name": "Blog Taos",
   "icons": [
     {
       "src": "\/android-icon-36x36.png",
