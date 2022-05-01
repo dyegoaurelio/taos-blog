@@ -11,6 +11,7 @@
   },
   "scripts": {
     "dev": "next dev -p 3501",
+    "code-server-dev":"CODE_SERVER=true next dev -p 3454",
     "build": "next build",
     "start": "next start",
     "deploy": "vercel deploy",
